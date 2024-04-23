@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey !
 
-<!--
-**Fermalt/Fermalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are the different technologies i'm using in my projects :
 
-Here are some ideas to get you started:
+# 🖥️ Web and mobile development :
+- Java and Kotlin💛 (worst language i like to use) and sometimes a bit of python
+- Html/css/javascript (typescript) + frameworks (angular, react, next.js)
+- SQL, Hibernate for databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 Excel development :
+- VBA
+- SQL for informations flows
+
+I've got (bad) experiences of php 😭
