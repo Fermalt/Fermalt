@@ -1,6 +1,6 @@
 ### Hey !
 
-Here are the different technologies i'm using in my projects :
+Look about my competences and my current projects 😉
 
 # 🖥️ Web and mobile development :
 - Java and Kotlin💛 (worst language i like to use) and sometimes a bit of python
