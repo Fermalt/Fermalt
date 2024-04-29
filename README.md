@@ -7,7 +7,7 @@ Here are the different technologies i'm using in my projects :
 - Html/css/javascript (typescript) + frameworks (angular, react, next.js)
 - SQL, Hibernate for databases
 
-I've got also a (bad) experience of php 😭
+I've got a (bad) experience of php 😭
 
 # 📊 Excel development :
 - VBA
