@@ -3,16 +3,17 @@
 Look about my competences and my current projects 😉
 
 # 🖥️ Web and mobile development :
-- Java and Kotlin💛 (worst language i like to use) and sometimes a bit of python
-- Html/css/javascript (typescript) + frameworks (angular, react, next.js)
+- Java and Kotlin💛
+- Html/css/javascript (typescript) + frameworks (react, next.js, vue.js)
 - SQL, Hibernate for databases
-
-I've got a (bad) experience of php 😭
 
 # 📊 Excel development :
 - VBA
 - SQL for informations flows
 
+# Transversal
+- Devops (ansible, jenkins)
+- Agile and SAFe methods
 
 # Projects :
 - Currently working on a small mobile memory game available to everyone. The main objective of this game is to help our olders to train their brain ! (https://play.google.com/store/apps/details?id=fr.fermalt.dcode)
